@@ -1,0 +1,13 @@
+{
+  "name": "ExpressWorks",
+  "version": "0.0.0",
+  "description": "ExpressWorks",
+  "main": "app.js",
+  "author": {
+    "name": "Jakub",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
