@@ -33,9 +33,9 @@
   <ItemGroup>
     <Compile Include="app.js" />
     <Content Include="package.json" />
-    <Content Include="public\index.html" />
+    <Content Include="public\form.html" />
     <Content Include="README.md" />
-    <Content Include="templates\index.jade" />
+    <Content Include="templates\form.jade" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="public\" />
